@@ -12,4 +12,4 @@
 ULRICH HANKPE — Formation Big Data & IA
 ## Difficultés rencontrées
 -Erreurs de guillemets dans print
--comprendre la difference entre [-1] et [::-1]
+-Comprendre la difference entre [-1] et [::-1]
